@@ -1,0 +1,13 @@
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.csprojAssemblyReference.cache
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.AssemblyInfoInputs.cache
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.AssemblyInfo.cs
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.csproj.CoreCompileInputs.cache
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.exe
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.deps.json
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.runtimeconfig.json
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.runtimeconfig.dev.json
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.dll
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\bin\Debug\netcoreapp3.1\lr1.pdb
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.dll
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.pdb
+C:\Users\alesh\Desktop\spp\1\lr1\lr1\obj\Debug\netcoreapp3.1\lr1.genruntimeconfig.cache
