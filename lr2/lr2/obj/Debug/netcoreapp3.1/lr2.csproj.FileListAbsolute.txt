@@ -1,0 +1,12 @@
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.exe
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.deps.json
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.json
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.dev.json
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.dll
+C:\Users\alesh\Desktop\spp\lr2\lr2\bin\Debug\netcoreapp3.1\lr2.pdb
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.AssemblyInfoInputs.cache
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.AssemblyInfo.cs
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.csproj.CoreCompileInputs.cache
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.dll
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.pdb
+C:\Users\alesh\Desktop\spp\lr2\lr2\obj\Debug\netcoreapp3.1\lr2.genruntimeconfig.cache

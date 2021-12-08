@@ -1,0 +1,7 @@
+C:\Users\alesh\Desktop\laba_8\laba_8\bin\Debug\laba_8.exe.config
+C:\Users\alesh\Desktop\laba_8\laba_8\bin\Debug\laba_8.exe
+C:\Users\alesh\Desktop\laba_8\laba_8\bin\Debug\laba_8.pdb
+C:\Users\alesh\Desktop\laba_8\laba_8\obj\Debug\laba_8.csprojAssemblyReference.cache
+C:\Users\alesh\Desktop\laba_8\laba_8\obj\Debug\laba_8.csproj.CoreCompileInputs.cache
+C:\Users\alesh\Desktop\laba_8\laba_8\obj\Debug\laba_8.exe
+C:\Users\alesh\Desktop\laba_8\laba_8\obj\Debug\laba_8.pdb
