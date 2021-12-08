@@ -1,0 +1,7 @@
+C:\Users\alesh\Desktop\laba_6\laba_6\bin\Debug\laba_6.exe.config
+C:\Users\alesh\Desktop\laba_6\laba_6\bin\Debug\laba_6.exe
+C:\Users\alesh\Desktop\laba_6\laba_6\bin\Debug\laba_6.pdb
+C:\Users\alesh\Desktop\laba_6\laba_6\obj\Debug\laba_6.csprojAssemblyReference.cache
+C:\Users\alesh\Desktop\laba_6\laba_6\obj\Debug\laba_6.csproj.CoreCompileInputs.cache
+C:\Users\alesh\Desktop\laba_6\laba_6\obj\Debug\laba_6.exe
+C:\Users\alesh\Desktop\laba_6\laba_6\obj\Debug\laba_6.pdb
